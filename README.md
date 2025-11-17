@@ -414,9 +414,9 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 
-**Seu Nome**
+**Francielli Valerio**
 
 - GitHub: [@franciellivalerio](https://github.com/franciellivalerio)
 - LinkedIn: [Francielli Valerio](https://linkedin.com/in/franciellivalerio)
