@@ -9,6 +9,14 @@
 
 ---
 
+## 🔗 Deploy
+
+O site está publicado e disponível no Netlify:
+
+[Acesse aqui!](https://techsolutionsoficial.netlify.app/)
+
+---
+
 ## 📋 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
@@ -398,6 +406,9 @@ Contribuições são bem-vindas! Para contribuir:
 
 - Mantenha o código semântico e acessível
 - Teste em múltiplos navegadores
+- Documente mudanças significativas
+- Siga os padrões de código existentes
+
 - Documente mudanças significativas
 - Siga os padrões de código existentes
 
